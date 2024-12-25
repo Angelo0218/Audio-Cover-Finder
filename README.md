@@ -23,7 +23,6 @@
 
 ### 轉換格式
 👉 推薦使用 [EZ CD Audio Converter](https://www.poikosoft.com/ez-cd-audio-converter)
-- 可將音檔轉換為 M4A 格式
 - 支援批次轉換
 - 可保留音樂資訊標籤
 
