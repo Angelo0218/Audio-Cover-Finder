@@ -1,4 +1,4 @@
-# 音樂封面自動下載器 (Audio Cover Processor)
+# 音樂封面自動下載器 (Audio-Cover-Finder)
 
 這是一款支援多格式音樂檔案的封面自動下載工具。它會自動從 YouTube 搜尋相關的影片縮圖作為音樂封面，並將其嵌入音樂檔案。
 
